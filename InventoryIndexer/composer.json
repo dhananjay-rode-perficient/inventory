@@ -6,11 +6,11 @@
         "magento/framework": "*",
         "magento/framework-message-queue": "*",
         "magento/module-inventory-multi-dimensional-indexer-api": "*",
-        "magento/module-inventory": "*",
+        "magento/module-inventory": "1.1.*",
         "magento/module-inventory-api": "*",
         "magento/module-inventory-catalog-api": "*",
         "magento/module-inventory-sales-api": "*",
-        "magento/module-inventory-sales": "*"
+        "magento/module-inventory-sales": "1.1.*"
     },
     "suggest": {
         "magento/module-catalog": "*"
@@ -27,5 +27,6 @@
         "psr-4": {
             "Magento\\InventoryIndexer\\": ""
         }
-    }
+    },
+    "version": "2.0.1"
 }

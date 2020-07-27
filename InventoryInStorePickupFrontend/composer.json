@@ -22,5 +22,6 @@
         "psr-4": {
             "Magento\\InventoryInStorePickupFrontend\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }

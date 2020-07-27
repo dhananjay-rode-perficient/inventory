@@ -7,7 +7,7 @@
         "magento/module-catalog": "*",
         "magento/module-inventory-sales-api": "*",
         "magento/module-inventory-catalog-api": "*",
-        "magento/module-inventory-indexer": "*",
+        "magento/module-inventory-indexer": "2.0.*",
         "magento/module-store": "*",
         "magento/module-catalog-inventory": "*",
         "magento/module-sales": "*",
@@ -25,5 +25,6 @@
         "psr-4": {
             "Magento\\InventoryConfigurableProduct\\": ""
         }
-    }
+    },
+    "version": "1.1.0"
 }

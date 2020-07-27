@@ -21,5 +21,6 @@
         "psr-4": {
             "Magento\\InventoryInStorePickupShippingAdminUi\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }

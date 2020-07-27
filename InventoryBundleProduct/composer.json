@@ -27,5 +27,6 @@
         "psr-4": {
             "Magento\\InventoryBundleProduct\\": ""
         }
-    }
+    },
+    "version": "1.1.0"
 }

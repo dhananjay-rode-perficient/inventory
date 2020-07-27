@@ -9,14 +9,14 @@
         "magento/module-inventory-api": "*",
         "magento/module-inventory-catalog-api": "*",
         "magento/module-store": "*",
-        "magento/module-inventory": "*",
+        "magento/module-inventory": "1.1.*",
         "magento/module-inventory-configuration-api": "*",
-        "magento/module-inventory-indexer": "*",
+        "magento/module-inventory-indexer": "2.0.*",
         "magento/module-inventory-sales-api": "*",
         "magento/module-inventory-configuration": "*"
     },
     "suggest": {
-        "magento/module-inventory-reservations-api": "*"
+        "magento/module-inventory-reservations-api": "1.1.*"
     },
     "type": "magento2-module",
     "license": [
@@ -30,5 +30,6 @@
         "psr-4": {
             "Magento\\InventoryCatalog\\": ""
         }
-    }
+    },
+    "version": "1.1.1"
 }

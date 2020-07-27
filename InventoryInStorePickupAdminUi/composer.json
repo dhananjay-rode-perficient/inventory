@@ -6,7 +6,7 @@
         "magento/framework": "*",
         "magento/module-ui": "*",
         "magento/module-inventory-in-store-pickup-api": "*",
-        "magento/module-inventory-admin-ui": "*",
+        "magento/module-inventory-admin-ui": "1.1.*",
         "magento/module-inventory-catalog-api": "*",
         "magento/module-inventory-api": "*"
     },
@@ -22,5 +22,6 @@
         "psr-4": {
             "Magento\\InventoryInStorePickupAdminUi\\": ""
         }
-    }
+    },
+    "version": "1.0.1"
 }

@@ -11,7 +11,7 @@
         "magento/module-inventory-sales-api": "*",
         "magento/module-inventory-catalog-api": "*",
         "magento/module-directory": "*",
-        "magento/module-inventory": "*"
+        "magento/module-inventory": "1.1.*"
     },
     "type": "magento2-module",
     "license": [
@@ -25,5 +25,6 @@
         "psr-4": {
             "Magento\\InventoryInStorePickup\\": ""
         }
-    }
+    },
+    "version": "1.0.1"
 }

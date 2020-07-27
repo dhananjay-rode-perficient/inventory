@@ -4,7 +4,7 @@
     "require": {
         "php": "~7.3.0||~7.4.0",
         "magento/framework": "*",
-        "magento/module-inventory": "*",
+        "magento/module-inventory": "1.1.*",
         "magento/module-inventory-api": "*",
         "magento/module-inventory-catalog-api": "*",
         "magento/module-backend": "*",
@@ -23,5 +23,6 @@
         "psr-4": {
             "Magento\\InventoryAdminUi\\": ""
         }
-    }
+    },
+    "version": "1.1.1"
 }

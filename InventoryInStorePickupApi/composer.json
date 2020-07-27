@@ -18,5 +18,6 @@
         "psr-4": {
             "Magento\\InventoryInStorePickupApi\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }

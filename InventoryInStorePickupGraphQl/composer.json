@@ -20,5 +20,6 @@
         "psr-4": {
             "Magento\\InventoryInStorePickupGraphQl\\": ""
         }
-    }
+    },
+    "version": "1.0.0"
 }
